@@ -32,7 +32,7 @@ npm run build
 1. 在 GitHub 创建一个新仓库。
 2. 把本地项目推送到仓库的 `main` 分支。
 3. 在仓库 `Settings -> Pages` 中，把 `Source` 设置为 `GitHub Actions`。
-4. 如果你的 GitHub Pages 地址不是 `https://chenhui-miao.github.io`，修改 `_config.yml` 里的 `url`。
+4. 当前发布地址是 `https://1519605664-hui.github.io/chenhui-miao.github.io/`。
 
 ## 已开启功能
 

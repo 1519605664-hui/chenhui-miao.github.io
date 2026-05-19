@@ -17,7 +17,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://chenhui-miao.github.io
+url: https://1519605664-hui.github.io/chenhui-miao.github.io
+root: /chenhui-miao.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -112,7 +113,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: /img/fluid.png
+  icon: img/fluid.png
 
 # Sitemap for search engines
 sitemap:

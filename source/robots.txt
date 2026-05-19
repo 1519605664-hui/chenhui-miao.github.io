@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chenhui-miao.github.io/sitemap.xml
+Sitemap: https://1519605664-hui.github.io/chenhui-miao.github.io/sitemap.xml
