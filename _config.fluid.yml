@@ -1,0 +1,90 @@
+favicon: /img/fluid.png
+apple_touch_icon: /img/fluid.png
+
+dark_mode:
+  enable: true
+  default: auto
+
+color:
+  body_bg_color: "#f6f8fb"
+  body_bg_color_dark: "#0b1120"
+  navbar_bg_color: "#111827"
+  navbar_bg_color_dark: "#020617"
+  navbar_text_color: "#f8fafc"
+  navbar_text_color_dark: "#e5e7eb"
+  subtitle_color: "#f8fafc"
+  subtitle_color_dark: "#e5e7eb"
+  link_hover_color: "#2563eb"
+  link_hover_color_dark: "#60a5fa"
+
+navbar:
+  blog_title: "Chenhui Miao"
+  menu:
+    - { key: "home", name: "首页", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", name: "归档", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "category", name: "分类", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "tag", name: "标签", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "about", name: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
+
+search:
+  enable: true
+  path: /local-search.xml
+  generate_path: /local-search.xml
+  field: all
+  content: true
+
+index:
+  banner_img: /img/default.png
+  banner_img_height: 86
+  banner_mask_alpha: 0.35
+  slogan:
+    enable: true
+    text:
+      - "记录技术、学习与生活"
+      - "保持好奇，持续构建"
+  auto_excerpt:
+    enable: true
+
+post:
+  banner_img: /img/default.png
+  banner_img_height: 66
+  banner_mask_alpha: 0.35
+  meta:
+    author:
+      enable: true
+    date:
+      enable: true
+    wordcount:
+      enable: true
+    min2read:
+      enable: true
+  copyright:
+    enable: true
+    author:
+      enable: true
+
+archive:
+  banner_img: /img/default.png
+  banner_img_height: 52
+
+category:
+  enable: true
+  banner_img: /img/default.png
+  banner_img_height: 52
+
+tag:
+  enable: true
+  banner_img: /img/default.png
+  banner_img_height: 52
+
+about:
+  enable: true
+  banner_img: /img/default.png
+  banner_img_height: 58
+  avatar: /img/avatar.png
+  name: "Chenhui Miao"
+  intro: "写技术、项目和生活观察。"
+  icons: []
+
+footer:
+  content: '© 2026 Chenhui Miao · Powered by <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener">Fluid</a>'
